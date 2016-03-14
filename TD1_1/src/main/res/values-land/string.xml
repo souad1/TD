@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+
+        <string name="app_name">My Application</string>
+        <string name= "welcome_messages"> Bonjour,%1$s!Vous avez %2$d nouveau message </string>
+        <string-array name= "Jours_Semaine">
+            <item> sunday </item>
+            <item> monday </item>
+            <item> tuesday </item>
+            <item> wednesday </item>
+            <item> thursday </item>
+            <item> friday</item>
+            <item> saturday </item>  </string-array>
+
+
+
+
+</resources>

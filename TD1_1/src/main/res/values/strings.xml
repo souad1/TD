@@ -1,0 +1,13 @@
+<resources>
+    <string name="app_name">My Application</string>
+    <string name= "welcome_messages"> Bonjour,%1$s!Vous avez %2$d nouveau message </string>
+    <string-array name= "Jours_Semaine">
+    <item> Dimanche </item>
+    <item> Lundi </item>
+    <item> Mardi </item>
+    <item> Mercredi </item>
+    <item> Jeudi </item>
+    <item> Vendredi </item>
+    <item> Samedi </item>  </string-array>
+
+</resources>

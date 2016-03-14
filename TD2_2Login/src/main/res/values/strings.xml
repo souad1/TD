@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">TestApp</string>
+
+    <string name="nom">Enter votre nom</string>
+    <string name="NomTxt">Nom</string>
+
+    <string name="pswd">Enter votre mdp</string>
+    <string name="mdp">password</string>
+</resources>

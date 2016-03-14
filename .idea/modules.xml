@@ -1,0 +1,23 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/TD.iml" filepath="$PROJECT_DIR$/TD.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1_1/TD1_1.iml" filepath="$PROJECT_DIR$/TD1_1/TD1_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD1_2/TD1_2.iml" filepath="$PROJECT_DIR$/TD1_2/TD1_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD2_2/TD2_2.iml" filepath="$PROJECT_DIR$/TD2_2/TD2_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD2_2Login/TD2_2Login.iml" filepath="$PROJECT_DIR$/TD2_2Login/TD2_2Login.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD3_IntentTest/TD3_IntentTest.iml" filepath="$PROJECT_DIR$/TD3_IntentTest/TD3_IntentTest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD3_TheListview/TD3_TheListview.iml" filepath="$PROJECT_DIR$/TD3_TheListview/TD3_TheListview.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD3_intentListView/TD3_intentListView.iml" filepath="$PROJECT_DIR$/TD3_intentListView/TD3_intentListView.iml" />
+      <module fileurl="file://$PROJECT_DIR$/TD4/TD4.iml" filepath="$PROJECT_DIR$/TD4/TD4.iml" />
+      <module fileurl="file://$PROJECT_DIR$/fragmenttest/fragmenttest.iml" filepath="$PROJECT_DIR$/fragmenttest/fragmenttest.iml" />
+      <module fileurl="file://$PROJECT_DIR$/td3_intentlistviewfinal/td3_intentlistviewfinal.iml" filepath="$PROJECT_DIR$/td3_intentlistviewfinal/td3_intentlistviewfinal.iml" />
+      <module fileurl="file://$PROJECT_DIR$/td4_1/td4_1.iml" filepath="$PROJECT_DIR$/td4_1/td4_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/td5_1/td5_1.iml" filepath="$PROJECT_DIR$/td5_1/td5_1.iml" />
+      <module fileurl="file://$PROJECT_DIR$/td5_2/td5_2.iml" filepath="$PROJECT_DIR$/td5_2/td5_2.iml" />
+      <module fileurl="file://$PROJECT_DIR$/td5_drawer/td5_drawer.iml" filepath="$PROJECT_DIR$/td5_drawer/td5_drawer.iml" />
+      <module fileurl="file://$PROJECT_DIR$/viewpager/viewpager.iml" filepath="$PROJECT_DIR$/viewpager/viewpager.iml" />
+    </modules>
+  </component>
+</project>
